@@ -1,0 +1,2 @@
+# .assets
+Scape Ventures Assets
